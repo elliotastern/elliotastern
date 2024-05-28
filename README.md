@@ -6,6 +6,10 @@
 
 # <p align="center">This is Elliot</p>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://elliotastern.com/) 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://elliotastern.com/)
+
 
 ![Banner](https://path/to/your/banner/image.jpg) <!-- Replace with your actual banner image path -->
 
