@@ -3,9 +3,6 @@
 </p>
 
 
-
-# <p align="center">This is Elliot</p>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elliotastern/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://elliotastern.com/portfolio/) [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/elliotstern?public_mode=true)
 
 Currently building powerful AI models with XGboost, Nueral Networks, and Large Language Models (LLMs) to provide value in business and sports .
@@ -36,15 +33,7 @@ Here's a selection of recent open-source projects I've contributed to:
 
 
 
-
-
 <!-- Add more tools and technologies as needed -->
-
-## Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahEddineAD&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahEddineAD&show_icons=true)
 
 <!-- Optional: Add any additional stats or information you'd like to highlight -->
 
@@ -80,6 +69,9 @@ Here's a selection of recent open-source projects I've contributed to:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Stats
+
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahEddineAD&layout=compact)
 
