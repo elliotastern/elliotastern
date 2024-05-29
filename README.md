@@ -12,8 +12,8 @@ Click [here](https://elliotastern.com/portfolio/) to explore my professional wor
 ## Projects
 
 Here's a selection of recent open-source projects I've contributed to:
-- **[Managed a user adoption analysis project, determining what drives user engagement](https://github.com/your-repo-link)**.
-- **[A microservices-based platform for dynamic, real-time data participation and analysis](https://github.com/your-repo-link)**.
+- **[Soccer Computer Vision project](https://elliotastern.com/computer-vision-portfolio/)**. <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hsYjVsdWM1Y28zZjByNTd5cXdmdWczbmRiNGtoOXpjd3RiaWM0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j657mI77l6xtoX7nAh/giphy.gif" alt="Description" width="100"> </p>
+- **[An NBA prediction model to guide Hasan Sports Management on who to sign]([https://github.com/your-repo-link](https://elliotastern.com/pro-nba-model/))**.
 - **[Developed an NLP-based chatbot to interact with users and provide instant responses](https://github.com/your-repo-link)**.
 - **[Created a data consumption forecasting project using LSTM and GRU](https://github.com/your-repo-link)**.
 - **[A data pipeline analyzing LinkedIn job postings using Apache Kafka, Spark, deployed on AWS](https://github.com/your-repo-link)**.
