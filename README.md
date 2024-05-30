@@ -24,9 +24,9 @@ Here's a selection of recent open-source projects I've contributed to:
 <p align="left"> <img src="https://i0.wp.com/elliotastern.com/wp-content/uploads/2023/06/MVP-Zone.png?resize=800%2C398&ssl=1" alt="Description" width="250"> </p>
 
 
-Satisfying customers with 100% 5 star ratings on Fiverr
+Satisfying customers with 100% 5-star ratings on Fiverr
+<img width="944" alt="image" src="https://github.com/elliotastern/elliotastern/assets/22901176/64d9f42b-af5a-45f4-a638-e3a658bda8d3">
 
-<img width="985" alt="Screenshot 2024-05-29 at 7 33 59 PM" src="https://github.com/elliotastern/elliotastern/assets/22901176/000a74b1-d81f-4fd2-ac20-610a783721ff">
 
 
 ## Languages and Tools:
